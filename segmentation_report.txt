@@ -1,0 +1,33 @@
+STUDENT SEGMENTATION REPORT
+========================================
+
+Number of segments chosen: 3
+Features used: average_marks, attendance_pct, marks_consistency
+
+SEGMENT PROFILES
+----------------------------------------
+
+Segment 0: Uneven Performers - Attendance Gap (46 students)
+  Avg marks: 65.66%
+  Avg attendance: 66.02%
+  Marks consistency: 25.2
+  Recommendation: Prioritize attendance outreach alongside subject tutoring.
+
+Segment 1: Uneven Performers - Engaged (48 students)
+  Avg marks: 68.18%
+  Avg attendance: 88.73%
+  Marks consistency: 19.54
+  Recommendation: Attendance is fine. Needs subject-specific tutoring.
+
+Segment 2: Steady Mid-Performers (23 students)
+  Avg marks: 52.77%
+  Avg attendance: 69.57%
+  Marks consistency: 14.8
+  Recommendation: Standard support is enough. Monitor for changes over time.
+
+
+OVERALL TAKEAWAY
+----------------------------------------
+Different segments need different support. One general plan for
+everyone wastes effort. Matching the right support to the right
+segment should work better for the same budget.
